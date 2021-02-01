@@ -1,0 +1,27 @@
+---
+author: "Tanner Dunn"
+title: "Lab1 Part 2"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Partner's Info
+
+name - Mytien Kien
+git username - kmytien
+
+## Partner's Commits
+In the most recent commit Mytien committed HW1
+Commit ID - 522ec35dbb82e1544600ddd836d8e67a8769b049
+a1d9bdc10edf652fe7ac7485d0989df30750106f
+
+## Knitting The owners hw1.Rmd
+I was able to knit without error.
+A tip for making git hub easier is when something doesn't work google is your friend. 
+
+
+
+
