@@ -1,0 +1,29 @@
+---
+title: "partner.Rmd"
+author: "Ryan Pate"
+date: "2/2/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**1. Partner's Full Name and GitHub username:**
+
+    MyTien Kien; kmytien
+    
+**2. What did the owner do in the most recent commit? What is the commit ID?**
+
+    In the most recent commit, Mytien's other partner uploaded his lab files.
+    Commit ID: 1f56629b34b6e611567af34042a8b3d44de23324
+    
+**3. Knit the owner's 'hw1.Rmd'. Are you able to do so without error?**
+
+    I had no problems knitting her 'hw1.Rmd'.
+    
+**4. Include any errors/difficulties:**
+  
+    I didn't have any significant errors or difficulties.
+
+    
